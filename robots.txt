@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eceoveixoj.simpletimezone.com/sitemap.xml
